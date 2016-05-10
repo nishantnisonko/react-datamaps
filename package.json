@@ -1,0 +1,16 @@
+{
+  "name": "react-datamaps",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": "",
+  "scripts": {},
+  "engines": {
+    "npm": "^3.3.6"
+  },
+  "dependencies": {
+    "datamaps": "^0.5.1",
+    "react": "15.0.0",
+    "react-dom": "15.0.0",
+    "react-radio-group": "^2.2.0"
+  }
+}
